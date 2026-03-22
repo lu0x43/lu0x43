@@ -24,12 +24,12 @@
 </div>
 
 <br>
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lu0x43&layout=compact&langs_count=12&theme=midnight-purple&hide=Ruby"/>
   <br><br>
   <a href="https://github.com/lu0x43">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lu0x43&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github"/>
-</div>
+</div> -->
 
  ## Me encontre em:
 
